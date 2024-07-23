@@ -1,0 +1,3 @@
+[submodule "mlops"]
+    path = 'orchestration/mlops'
+    url = https://github.com/wayne-chi/Election_ETL_Pipeline_1
